@@ -1,6 +1,9 @@
 Resources
+
 https://wiki.openssl.org/index.php/Main_Page
+
 https://en.wikipedia.org/wiki/Berkeley_sockets
+
 https://beej.us/guide/bgnet/
 
 
