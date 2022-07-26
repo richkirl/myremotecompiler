@@ -65,7 +65,7 @@ int main()
     char *buf;
     buf=calloc(65536,65536*sizeof(char));
     //int numbytes;
-    char *msg = "GET / HTTP/1.0\nHost: google.com\nUser-Agent: User-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0\nAccept: text/html\nConnection: close\n\n";
+    char *msg = "GET / HTTP/1.0\nHost: google.com\nUser-Agent: Mozilla/5.0 (X11; Linux x86_64; rv:102.0) Gecko/20100101 Firefox/102.0\nAccept: text/html\nConnection: close\n\n";
     int len;
 
     len = strlen(msg);
