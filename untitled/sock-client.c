@@ -10,7 +10,7 @@
 #include <openssl/ssl.h>
 #include <openssl/err.h>
 
-#define PORT 0
+#define PORT 8000
 
 int main()
 {
